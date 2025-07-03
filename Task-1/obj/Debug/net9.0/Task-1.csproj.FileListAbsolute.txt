@@ -1,0 +1,14 @@
+D:\ProJect\ERAA\Task-1\Task-1\bin\Debug\net9.0\Task-1.exe
+D:\ProJect\ERAA\Task-1\Task-1\bin\Debug\net9.0\Task-1.deps.json
+D:\ProJect\ERAA\Task-1\Task-1\bin\Debug\net9.0\Task-1.runtimeconfig.json
+D:\ProJect\ERAA\Task-1\Task-1\bin\Debug\net9.0\Task-1.dll
+D:\ProJect\ERAA\Task-1\Task-1\bin\Debug\net9.0\Task-1.pdb
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\Task-1.AssemblyInfoInputs.cache
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\Task-1.AssemblyInfo.cs
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\Task-1.csproj.CoreCompileInputs.cache
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\Task-1.dll
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\refint\Task-1.dll
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\Task-1.pdb
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\Task-1.genruntimeconfig.cache
+D:\ProJect\ERAA\Task-1\Task-1\obj\Debug\net9.0\ref\Task-1.dll

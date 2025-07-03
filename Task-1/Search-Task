@@ -1,0 +1,8 @@
+1- (:C) => It formats the value as a currency.
+2- more readable
+3- (:P) => formats the number as a percentage
+      double SemesterCriditHours = 18;
+      double GainedCriditHours = 9;
+      Console.WriteLine($"Progress: {GainedCriditHours / SemesterCriditHours:P}");
+
+Output => Progress: 50.00%

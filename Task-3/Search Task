@@ -1,0 +1,17 @@
+يا بشمهندس فيه كلام ملوش ترجمه بالعربي، مش عارف اوصفه
+و لما بترجمه بيبقا مش مفهوم
+
+
+1- 
+لما أحتاج أخزن بيانات بسيطة أو مؤقتة،
+و هي Value-type بتتخزن في stack
+
+
+
+2- 
+Struct : Value type, stored in stack, for simple data.
+
+Class  : Reference type, stored in heap, for complex objects.
+
+Record : Can be reference or value type, for immutable data, compares by value.
+

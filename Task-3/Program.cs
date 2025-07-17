@@ -97,7 +97,6 @@ class Program
         Console.WriteLine("5. Return Book");
         Console.WriteLine("6. Show All Books");
         Console.WriteLine("7. Exit");
-        Console.Write("Choose an option (1-7): ");
     }
     static void Main(string[] args)
     { 
@@ -106,6 +105,7 @@ class Program
         while (true)
         {
             ShowMenue();
+            Console.Write("Choose an option (1-7): ");
             string input = Console.ReadLine();
             Console.WriteLine();
 

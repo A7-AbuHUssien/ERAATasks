@@ -1,0 +1,14 @@
+/Users/bu-hussien/Projects/Task-3/bin/Debug/net9.0/Task-3
+/Users/bu-hussien/Projects/Task-3/bin/Debug/net9.0/Task-3.deps.json
+/Users/bu-hussien/Projects/Task-3/bin/Debug/net9.0/Task-3.runtimeconfig.json
+/Users/bu-hussien/Projects/Task-3/bin/Debug/net9.0/Task-3.dll
+/Users/bu-hussien/Projects/Task-3/bin/Debug/net9.0/Task-3.pdb
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/Task-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/Task-3.AssemblyInfoInputs.cache
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/Task-3.AssemblyInfo.cs
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/Task-3.csproj.CoreCompileInputs.cache
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/Task-3.dll
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/refint/Task-3.dll
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/Task-3.pdb
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/Task-3.genruntimeconfig.cache
+/Users/bu-hussien/Projects/Task-3/obj/Debug/net9.0/ref/Task-3.dll

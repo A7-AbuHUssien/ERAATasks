@@ -1,0 +1,14 @@
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/bin/Debug/net9.0/Bonus-Task
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/bin/Debug/net9.0/Bonus-Task.deps.json
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/bin/Debug/net9.0/Bonus-Task.runtimeconfig.json
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/bin/Debug/net9.0/Bonus-Task.dll
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/bin/Debug/net9.0/Bonus-Task.pdb
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/Bonus-Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/Bonus-Task.AssemblyInfoInputs.cache
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/Bonus-Task.AssemblyInfo.cs
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/Bonus-Task.csproj.CoreCompileInputs.cache
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/Bonus-Task.dll
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/refint/Bonus-Task.dll
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/Bonus-Task.pdb
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/Bonus-Task.genruntimeconfig.cache
+/Users/bu-hussien/Projects/Eraa/Task-4/Bonus/Bonus-Task/obj/Debug/net9.0/ref/Bonus-Task.dll

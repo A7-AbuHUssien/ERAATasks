@@ -1,0 +1,14 @@
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/bin/Debug/net9.0/Main-Task
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/bin/Debug/net9.0/Main-Task.deps.json
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/bin/Debug/net9.0/Main-Task.runtimeconfig.json
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/bin/Debug/net9.0/Main-Task.dll
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/bin/Debug/net9.0/Main-Task.pdb
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/Main-Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/Main-Task.AssemblyInfoInputs.cache
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/Main-Task.AssemblyInfo.cs
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/Main-Task.csproj.CoreCompileInputs.cache
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/Main-Task.dll
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/refint/Main-Task.dll
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/Main-Task.pdb
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/Main-Task.genruntimeconfig.cache
+/Users/bu-hussien/Projects/Eraa/Task-4/Main-Task/Main-Task/obj/Debug/net9.0/ref/Main-Task.dll

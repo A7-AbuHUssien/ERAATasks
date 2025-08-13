@@ -1,0 +1,68 @@
+[
+  {
+    "$type": "multiChoice",
+    "Options": [
+      "50",
+      "7",
+      "70",
+      "20"
+    ],
+    "CorrectOption": "4",
+    "QLevel": "Medium",
+    "QHeader": "math",
+    "QBody": "(22*3\u002B4)/7\u002B10",
+    "QMark": 7
+  },
+  {
+    "$type": "complete",
+    "CorrectAnswer": "44",
+    "QLevel": "easy",
+    "QHeader": "math",
+    "QBody": "22\u002B22",
+    "QMark": 3
+  },
+  {
+    "$type": "multiChoice",
+    "Options": [
+      "A synchronization mechanism for concurrent processes.",
+      "An algorithm for preventing deadlock by ensuring a safe state.",
+      "A scheduling algorithm that guarantees a fair share of CPU time to all processes.",
+      "An algorithm for managing page faults in virtual memory."
+    ],
+    "CorrectOption": "2",
+    "QLevel": "Hard",
+    "QHeader": "Operating Systems",
+    "QBody": "Which of the following best describes the \u0022Banker\u0027s Algorithm\u0022?",
+    "QMark": 10
+  },
+  {
+    "$type": "multiChoice",
+    "Options": [
+      "200 ns",
+      "10.2 \u03BCs",
+      "100.2 \u03BCs",
+      "10 ms"
+    ],
+    "CorrectOption": "2",
+    "QLevel": "Medium",
+    "QHeader": "Operating Systems",
+    "QBody": "Memory access = 200 ns, Page fault = 10 ms, Fault rate = 0.1%. Find EMAT.",
+    "QMark": 15
+  },
+  {
+    "$type": "complete",
+    "CorrectAnswer": "58",
+    "QLevel": "Easy",
+    "QHeader": "Math",
+    "QBody": "55\u002B3",
+    "QMark": 1
+  },
+  {
+    "$type": "trueFalse",
+    "CorrectAnswer": true,
+    "QLevel": "Easy",
+    "QHeader": "Operating Systems",
+    "QBody": "GUID Stands for \u0027Global Unique ID\u0027",
+    "QMark": 3
+  }
+]

@@ -1,0 +1,22 @@
+[1]
+Musician (ID, Name, Phone, St, City) 
+Album (Id, Title, Date, Musician_ID) 
+Song (Title, Author,Album_ID) 
+Instrument (Name, Key) 
+Play_Instrument (Musician_ID, Instrument_Name) 
+Play_Song (Musician_ID, Song_Title)   
+[2]
+Sales_office (NUM, Loc,Manager_ID) 
+Employee (ID, Name, Sales_office_NUM) 
+Owner (ID, Name) 
+Property (ID, Add, City, State, Zip, Sales_office_NUM) 
+Has (Owner_ID, Property_ID, Percent-owned) 
+
+[3]
+Patient (ID, Name, DOB, Consultant_ID,Nurse_ID, Ward_ID) 
+Consultant (ID, Name) 
+Ward (ID, Name) 
+Nurse (ID, Name,Ward_ID) 
+Drug (DrugID, Rec_Dosage)
+Brand (BrandID, DrugID, BrandName)
+Gives ( Drug_ID, Patient_ID, Nurse_ID, Dosage, Date, Time)

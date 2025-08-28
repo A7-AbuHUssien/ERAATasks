@@ -1,0 +1,89 @@
+--------------------------------------------------------------
+-- 1. Create Employees table
+--------------------------------------------------------------
+CREATE TABLE Employees (
+    ID INT,
+    Name VARCHAR(100),
+    Salary DECIMAL(10,2)
+);
+
+--------------------------------------------------------------
+-- 2. Add new column Department
+--------------------------------------------------------------
+ALTER TABLE Employees
+ADD Department VARCHAR(50);
+
+--------------------------------------------------------------
+-- 3. Drop Salary column
+--------------------------------------------------------------
+ALTER TABLE Employees
+DROP COLUMN Salary;
+
+--------------------------------------------------------------
+-- 4. Rename column Department to DeptName
+--------------------------------------------------------------
+EXEC sp_rename 'Employees.Department', 'DeptName', 'COLUMN';
+
+--------------------------------------------------------------
+-- 5. Create Projects table
+--------------------------------------------------------------
+CREATE TABLE Projects (
+    ProjectID INT,
+    ProjectName VARCHAR(100)
+);
+
+--------------------------------------------------------------
+-- 6. Add primary key on Employees(ID)
+--------------------------------------------------------------
+ALTER TABLE Employees
+ADD PRIMARY KEY (ID);
+
+--------------------------------------------------------------
+-- 7. Add unique on Employees(Name)
+--------------------------------------------------------------
+ALTER TABLE Employees
+ADD UNIQUE (Name);
+
+--------------------------------------------------------------
+-- 8. Create Customers table
+--------------------------------------------------------------
+CREATE TABLE Customers (
+    CustomerID INT,
+    FirstName VARCHAR(100),
+    LastName VARCHAR(100),
+    Email VARCHAR(150),
+    Status VARCHAR(50)
+);
+
+--------------------------------------------------------------
+-- 9. Add unique on FirstName + LastName
+--------------------------------------------------------------
+ALTER TABLE Customers
+ADD UNIQUE (FirstName, LastName);
+
+--------------------------------------------------------------
+-- 10. Create Orders table
+--------------------------------------------------------------
+CREATE TABLE Orders (
+    OrderID INT,
+    CustomerID INT,
+    OrderDate DATETIME,
+    TotalAmount DECIMAL(10,2)
+);
+
+--------------------------------------------------------------
+-- 11. Add check constraint for TotalAmount > 0   
+--------------------------------------------------------------
+ALTER TABLE Orders
+ADD CHECK (TotalAmount > 0);
+
+--------------------------------------------------------------
+-- 12. Create Sales schema and move Orders to it
+--------------------------------------------------------------
+CREATE SCHEMA Sales;
+ALTER SCHEMA Sales TRANSFER dbo.Orders;
+
+--------------------------------------------------------------
+-- 13. Rename Orders to SalesOrders
+--------------------------------------------------------------
+EXEC sp_rename 'Sales.Orders', 'SalesOrders';

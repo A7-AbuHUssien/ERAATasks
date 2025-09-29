@@ -1,0 +1,1 @@
+Add doctor images into wwwroot/images/doctors/ and update PhotoPath values in DB or seed.
